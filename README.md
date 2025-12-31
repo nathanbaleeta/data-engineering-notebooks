@@ -5,6 +5,12 @@ Curated list of data pipelines used to showcase datasets across domains
 - Python 3.x+
 - Jupyter Lab
 
+#### Skills needed
+- Web scraping
+- Consuming RESTful APIs
+- Pandas
+- Polars
+
 #### Quick Setup
 The project uses [Pip](https://pypi.org/project/pip/) to keep track of its dependencies. To install it, you can follow the instructions [here](https://pip.pypa.io/en/stable/installation/).
 

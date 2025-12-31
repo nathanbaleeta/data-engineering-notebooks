@@ -1,5 +1,5 @@
 ## data-engineering-notebooks
-Curated list of data pipelines used to showcase datasets across domains
+Curated list of experiment data pipelines used to build datasets across domains
 
 #### Pre-requisites
 - Python 3.x+

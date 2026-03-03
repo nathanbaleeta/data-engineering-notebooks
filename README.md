@@ -23,7 +23,7 @@ python3 -m venv venv
 
 source venv/bin/activate
 
-pip install --quiet pandas requests jupterlab
+pip install --quiet pandas requests jupterlab duckdb
 ```
 ##### To freeze the libaries use:
 ```

@@ -10,6 +10,7 @@ Curated list of experiment data pipelines used to build datasets across domains
 - Consuming RESTful APIs
 - Pandas
 - Polars
+- DuckDB
 
 #### Quick Setup
 The project uses [Pip](https://pypi.org/project/pip/) to keep track of its dependencies. To install it, you can follow the instructions [here](https://pip.pypa.io/en/stable/installation/).

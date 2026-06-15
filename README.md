@@ -3,6 +3,7 @@ Curated list of experiment data pipelines used to build datasets across domains
 
 #### Pre-requisites
 - Python 3.x+
+- R
 - Jupyter Lab
 
 #### Skills needed
